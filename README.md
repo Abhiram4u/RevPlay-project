@@ -39,7 +39,7 @@ This project demonstrates **end-to-end backend development**, clean architecture
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The RevPlay application follows a **clean, layered architecture** to ensure clear separation of concerns, maintainability, and scalability.
 
@@ -153,37 +153,7 @@ Each layer communicates only with the layer directly below it.
 
 ---
 
-## 📂 Project Structure
-
-revplay/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com.revplay.util
-│ │ │ │ ├── dao
-│ │ │ │ ├── model
-│ │ │ │ ├── service
-│ │ │ │ ├── ui
-│ │ │ │ └── DBConnection.java
-│ │ │ └── org.example.Main.java
-│ │ └── resources/
-│ │ └── log4j2.xml
-│ └── test/
-│ └── java/
-│ └── com.revplay.util.service
-│ ├── ArtistServiceTest.java
-│ ├── SongServiceTest.java
-│ └── UserServiceTest.java
-├── logs/
-│ └── revplay.log
-├── pom.xml
-└── README.md
-
-
-
----
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java 21 (LTS)**  
 - **JDBC**  
@@ -196,7 +166,7 @@ revplay/
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 **Database Name:** `revplay_db`  
 **Database Type:** MySQL  
@@ -215,7 +185,7 @@ Foreign key relationships are used to maintain data integrity and enforce artist
 
 ---
 
-## 🔐 Logging (Log4j 2)
+## Logging (Log4j 2)
 
 - Logging is implemented using **Log4j 2**
 - Logs include:
@@ -227,7 +197,7 @@ Foreign key relationships are used to maintain data integrity and enforce artist
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java 21 (LTS)**  
 - **JDBC**  
@@ -240,7 +210,7 @@ Foreign key relationships are used to maintain data integrity and enforce artist
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 **Database Name:** `revplay_db`  
 **Database Type:** MySQL  
@@ -259,7 +229,7 @@ Foreign key relationships are used to maintain data integrity and enforce artist
 
 ---
 
-## 🔐 Logging (Log4j 2)
+##  Logging (Log4j 2)
 
 - Logging is implemented using **Log4j 2**
 - Logs include:
@@ -275,7 +245,7 @@ This replaces the use of `System.out.println` for backend logging and follows in
 
 ---
 
-## 🧪 Testing & Mocking
+##  Testing & Mocking
 
 - Unit tests are written for the **Service Layer**
 - DAO layer is **mocked using Mockito**
