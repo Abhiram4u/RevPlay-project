@@ -197,49 +197,6 @@ Foreign key relationships are used to maintain data integrity and enforce artist
 
 ---
 
-##  Technologies Used
-
-- **Java 21 (LTS)**  
-- **JDBC**  
-- **MySQL**  
-- **Maven**  
-- **Log4j 2** – Centralized logging  
-- **JUnit 5** – Unit testing  
-- **Mockito** – Mock testing  
-- **IntelliJ IDEA**
-
----
-
-##  Database Design
-
-**Database Name:** `revplay_db`  
-**Database Type:** MySQL  
-
-### Tables Used:
-- `users`
-- `artists`
-- `albums`
-- `songs`
-- `favorites`
-- `playlists`
-- `playlist_songs`
-- `listening_history`
-
-Foreign key relationships are used to maintain data integrity and enforce artist/user-specific access.
-
----
-
-##  Logging (Log4j 2)
-
-- Logging is implemented using **Log4j 2**
-- Logs include:
-  - Database connection status
-  - CRUD operations
-  - Validation warnings
-  - Errors and exceptions
-- Logs are written to:
-logs/revplay.log
-
 
 This replaces the use of `System.out.println` for backend logging and follows industry standards.
 
