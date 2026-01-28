@@ -1,0 +1,32 @@
+2026-01-28 01:10:44 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 01:11:00 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 10:01:41 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 10:02:19 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 10:02:59 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 10:03:15 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:40:15 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:40:29 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:41:02 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:41:32 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:41:39 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:43:38 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:43:38 INFO  com.revplay.util.dao.SongDAO - Song uploaded successfully | ArtistId=3 | Title=boom boom
+2026-01-28 15:43:45 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:44:15 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:44:15 INFO  com.revplay.util.dao.SongDAO - Song updated | SongId=5 | NewTitle=boom boom
+2026-01-28 15:44:22 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:44:55 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:44:55 INFO  com.revplay.util.dao.SongDAO - Song uploaded successfully | ArtistId=3 | Title=singari
+2026-01-28 15:45:00 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:45:21 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:45:52 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:45:52 INFO  com.revplay.util.dao.SongDAO - Fetched all songs successfully | Count=5
+2026-01-28 15:46:10 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:46:14 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:46:29 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:46:29 INFO  com.revplay.util.dao.SongDAO - Fetched all songs successfully | Count=5
+2026-01-28 15:46:35 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:46:35 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:47:04 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:47:14 INFO  com.revplay.util.DBConnection - Database connection established successfully
+2026-01-28 15:47:33 INFO  com.revplay.util.DBConnection - Database connection established successfully
