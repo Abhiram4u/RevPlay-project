@@ -213,4 +213,9 @@ This replaces the use of `System.out.println` for backend logging and follows in
 ```bash
 mvn test
 
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/revplay.git
+cd revplay
 
